@@ -11,11 +11,13 @@
     "url": "git+https://github.com/theoraVilderson/timeir-clock.git"
   },
   "keywords": [
+    "theroa",
     "clock",
     "time",
     "timeir",
     "timeirclock",
-    "timerir-clock"
+    "timerir-clock",
+    "theora-timerir-clock"
   ],
   "author": "Theora Vilderson",
   "license": "ISC",
