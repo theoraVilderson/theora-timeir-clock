@@ -51,7 +51,7 @@
 
 ### Create Clock Object :
 ```   
-	let clock = new Clock({
+let clock = new Clock({
       element: canvasElm, // the element should be canvas
       onTick:(date)=>{ /* do something*/ },
       onTock:(date)=>{ /* do something*/ },
