@@ -1,6 +1,6 @@
 {
   "name": "timeir-clock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "timeir clock is automatic canvas timer !",
   "main": "index.js",
   "scripts": {
