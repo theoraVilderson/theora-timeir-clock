@@ -1,0 +1,26 @@
+{
+  "name": "timeir-clock",
+  "version": "1.0.0",
+  "description": "timeir clock is automatic canvas timer !",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theoraVilderson/timeir-clock.git"
+  },
+  "keywords": [
+    "clock",
+    "time",
+    "timeir",
+    "timeirclock",
+    "timerir-clock"
+  ],
+  "author": "Theora Vilderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theoraVilderson/timeir-clock/issues"
+  },
+  "homepage": "https://github.com/theoraVilderson/timeir-clock#readme"
+}
