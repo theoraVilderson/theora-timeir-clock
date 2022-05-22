@@ -50,7 +50,7 @@
 
 
 ### Create Clock Object :
-```   
+```js
 let clock = new Clock({
       element: canvasElm, // the element should be canvas
       onTick:(date)=>{ /* do something*/ },
@@ -63,7 +63,7 @@ let clock = new Clock({
 
 ```
 ### Start/Stop Clock :
-```
+```js
 let clock = new Clock({
       element: canvasRef.current, // the element should be canvas
       onTick:(date)=>{ /* do something*/ },
