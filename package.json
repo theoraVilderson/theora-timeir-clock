@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theoraVilderson/timeir-clock.git"
+    "url": "git+https://github.com/theoraVilderson/theora-timeir-clock.git"
   },
   "keywords": [
     "theroa",
@@ -22,7 +22,7 @@
   "author": "Theora Vilderson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/theoraVilderson/timeir-clock/issues"
+    "url": "https://github.com/theoraVilderson/theora-timeir-clock/issues"
   },
-  "homepage": "https://github.com/theoraVilderson/timeir-clock#readme"
+  "homepage": "https://github.com/theoraVilderson/theora-timeir-clock#readme"
 }
